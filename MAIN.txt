@@ -1,0 +1,19 @@
+
+#include<iostream>
+using namespace std;
+class TaskManager {
+private:
+string userName;
+public:
+Door(); // Initializes the door as closed and unlocked
+void addTask();
+void deleteTask();
+void updateTask()
+{
+    cout<<"TASK UPDATED";
+}
+void viewTask();
+};
+int main(){
+return 0;
+ }
