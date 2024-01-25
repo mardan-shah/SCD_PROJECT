@@ -19,6 +19,9 @@ void updateTask()
     cout<<"TASK UPDATED";
 }
 void viewTask();
+{
+    cout<<"TASK VIEWED";
+}
 };
 int main(){
 return 0;
