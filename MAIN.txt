@@ -22,6 +22,9 @@ void viewTask();
 {
     cout<<"TASK VIEWED";
 }
+void Auth(){
+    cout<<<<"Auth Added";
+}
 };
 int main(){
 return 0;
