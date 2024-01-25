@@ -10,7 +10,10 @@ void addTask()
 {
     cout<<"TASK ADDED";
 }
-void deleteTask();
+void deleteTask()
+{
+    cout<<"TASK DELETED";
+}
 void updateTask()
 {
     cout<<"TASK UPDATED";
