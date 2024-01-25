@@ -25,6 +25,9 @@ void viewTask();
 void Auth(){
     cout<<<<"Auth Added";
 }
+void register(){
+    cout<<<<"Registeration Added";
+}
 };
 int main(){
 return 0;
