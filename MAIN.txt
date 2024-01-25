@@ -6,7 +6,10 @@ private:
 string userName;
 public:
 Door(); // Initializes the door as closed and unlocked
-void addTask();
+void addTask()
+{
+    cout<<"TASK ADDED";
+}
 void deleteTask();
 void updateTask()
 {
